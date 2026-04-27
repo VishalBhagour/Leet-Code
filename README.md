@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalBhagour/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VishalBhagour/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +43,16 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/VishalBhagour/Leet-Code/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
