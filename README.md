@@ -6,6 +6,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalBhagour/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishalBhagour/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/VishalBhagour/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VishalBhagour/Leet-Code/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
