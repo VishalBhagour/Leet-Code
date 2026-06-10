@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalBhagour/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VishalBhagour/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
