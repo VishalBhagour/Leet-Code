@@ -36,6 +36,7 @@
 | [0143-reorder-list](https://github.com/VishalBhagour/Leet-Code/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/VishalBhagour/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VishalBhagour/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VishalBhagour/Leet-Code/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
