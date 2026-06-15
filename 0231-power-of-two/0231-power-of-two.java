@@ -2,6 +2,10 @@ class Solution {
     public boolean isPowerOfTwo(int n) {
         if(n<=0) return false;
         if(n==1) return true;
-        return n%2 == 0 && isPowerOfTwo(n/2);
+        for(int i=0;i<n;i++){
+            if(Math.pow(2,i) == n) return true;
+            if(Math.pow(2,i) >n) return false;
+        }
+        return false;
     }
 }
