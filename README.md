@@ -68,6 +68,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VishalBhagour/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/VishalBhagour/Leet-Code/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/VishalBhagour/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
