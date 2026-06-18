@@ -1,20 +1,26 @@
-import java.util.*;
-
 class Solution {
-    public ArrayList<Integer> sortColors(int[] arr) {
-        ArrayList<Integer> result = new ArrayList<>();
-        for (int i = 0; i < arr.length - 1; i++) {
-            for (int j = 0; j < arr.length - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                }
+    public void sortColors(int[] arr) {
+        int low = 0;
+        int mid = 0;
+        int high = arr.length-1;
+
+        while(mid<=high){
+            if(arr[mid] == 1){
+                mid++;
+            }
+            else if(arr[mid] == 2){
+                int temp = arr[mid];
+                arr[mid] = arr[high];
+                arr[high] = temp;
+                high--;
+            }
+            else{
+                int temp = arr[mid];
+                arr[mid] = arr[low];
+                arr[low] = temp;
+                mid++;
+                low++;
             }
         }
-        for (int i = 0; i < arr.length; i++) {
-            result.add(arr[i]);
-        }
-        return result;
     }
 }
