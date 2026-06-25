@@ -102,6 +102,7 @@
 | [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/VishalBhagour/Leet-Code/tree/master/3931-check-adjacent-digit-differences) |
 ## String Matching
 |  |
 | ------- |
