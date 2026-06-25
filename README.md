@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VishalBhagour/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VishalBhagour/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
