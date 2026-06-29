@@ -98,6 +98,7 @@
 | [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VishalBhagour/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
+| [1837-sum-of-digits-in-base-k](https://github.com/VishalBhagour/Leet-Code/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
