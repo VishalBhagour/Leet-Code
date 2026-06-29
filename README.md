@@ -101,6 +101,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VishalBhagour/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
+| [0551-student-attendance-record-i](https://github.com/VishalBhagour/Leet-Code/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/VishalBhagour/Leet-Code/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/VishalBhagour/Leet-Code/tree/master/3931-check-adjacent-digit-differences) |
