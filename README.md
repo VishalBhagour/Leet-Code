@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
