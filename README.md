@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VishalBhagour/Leet-Code/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
+| [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## String
 |  |
 | ------- |
