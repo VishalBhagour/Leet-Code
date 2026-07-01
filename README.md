@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/VishalBhagour/Leet-Code/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
