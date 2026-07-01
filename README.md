@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VishalBhagour/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3931-check-adjacent-digit-differences](https://github.com/VishalBhagour/Leet-Code/tree/master/3931-check-adjacent-digit-differences) |
 ## String Matching
 |  |
