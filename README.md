@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
+| [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/VishalBhagour/Leet-Code/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/VishalBhagour/Leet-Code/tree/master/0383-ransom-note) |
+| [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -101,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalBhagour/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
