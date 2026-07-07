@@ -26,6 +26,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/VishalBhagour/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 | [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -108,6 +109,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
+| [2733-neither-minimum-nor-maximum](https://github.com/VishalBhagour/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
