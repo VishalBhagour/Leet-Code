@@ -22,6 +22,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
@@ -176,4 +177,12 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
