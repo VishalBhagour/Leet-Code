@@ -185,4 +185,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/VishalBhagour/Leet-Code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
