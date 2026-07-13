@@ -28,6 +28,7 @@
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/VishalBhagour/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/VishalBhagour/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/VishalBhagour/Leet-Code/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/VishalBhagour/Leet-Code/tree/master/2733-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/VishalBhagour/Leet-Code/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VishalBhagour/Leet-Code/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/VishalBhagour/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3697-compute-decimal-representation](https://github.com/VishalBhagour/Leet-Code/tree/master/3697-compute-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/VishalBhagour/Leet-Code/tree/master/3870-count-commas-in-range) |
 ## String
