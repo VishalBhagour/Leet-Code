@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalBhagour/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/VishalBhagour/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VishalBhagour/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/VishalBhagour/Leet-Code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VishalBhagour/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VishalBhagour/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
@@ -193,5 +195,10 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VishalBhagour/Leet-Code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/VishalBhagour/Leet-Code/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishalBhagour/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
