@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/VishalBhagour/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/VishalBhagour/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -172,6 +173,7 @@
 | [0191-number-of-1-bits](https://github.com/VishalBhagour/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VishalBhagour/Leet-Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/VishalBhagour/Leet-Code/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/VishalBhagour/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Monotonic Stack
 |  |
 | ------- |
