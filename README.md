@@ -24,6 +24,7 @@
 | [0896-monotonic-array](https://github.com/VishalBhagour/Leet-Code/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VishalBhagour/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/VishalBhagour/Leet-Code/tree/master/1122-relative-sort-array) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/VishalBhagour/Leet-Code/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalBhagour/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishalBhagour/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VishalBhagour/Leet-Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -159,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/VishalBhagour/Leet-Code/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalBhagour/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
